@@ -5,21 +5,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCEjB_vaUOpo2qjcLit-DYEQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/https:/www.youtube.com/channel/ucejb_vauopo2qjclit-dyeq" height="30" width="40" /></a>
-<a href="[https://gooth.de/moritz/]()" target="blank"><img align="center" src="https://gooth.de/moritz/Icon/Logo.png" alt="gooth.de/moritz" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCEjB_vaUOpo2qjcLit-DYEQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/https:/www.youtube.com/channel/ucejb_vauopo2qjclit-dyeq" height="35" /></a>
+<a href="https://gooth.de/moritz/" target="blank"><img align="center" src="https://gooth.de/moritz/Icon/Logo.png" alt="gooth.de/moritz" height="35" /></a>
+  <a href="https://discord.com/invite/yY7325knNJ" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="discord" height="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="40"/> 
   </a> 
    </a> 
     <a href="https://visualstudio.microsoft.com/de/downloads/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visual studio" height="40"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> 
   </a> 
   <a href="https://vulkan.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.khronos.org/assets/images/api_logos/vulkan.svg" alt="vulkan" height="40"/> 
