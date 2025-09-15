@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moritz Gooth</h1>
-<h3 align="center">A c/c++ developer from germany. Mostly interested in graphics programming.</h3>
+<h3 align="center">An indie developer from germany. Always interested in learning new things and the next challenge</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mori-tm&theme=tokyonight" alt="mori-tm" /></a> </p>
 
